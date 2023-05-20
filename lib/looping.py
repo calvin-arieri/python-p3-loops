@@ -33,3 +33,4 @@ def fizzbuzz():
             print(num)
 fizzbuzz()            
 print(square_integers([1, 2, 3, 4, 5]))
+happy_new_year()
