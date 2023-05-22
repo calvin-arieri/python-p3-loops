@@ -5,10 +5,10 @@ def happy_new_year():
     num = 11
     while num >= 1:
         num -= 1
-        if num == 0:
-            print("Happy new year!")
-        else:
+        if num != 0:
             print(num)
+        else:
+            print("Happy New Year!")
 
 def square_integers(int_list):
     # code goes here!
